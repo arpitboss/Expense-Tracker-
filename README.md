@@ -17,11 +17,16 @@ The Expense Tracker App is a mobile application built with Flutter that allows u
 ---
 ## Screenshots
 
-![Screenshot](Screenshot_2023-07-25-23-59-10-52_08ca09781666b52aabc166c014160a02.jpg)
-![Screenshot](Screenshot_2023-07-25-23-59-15-46_08ca09781666b52aabc166c014160a02.jpg)
-![Screenshot](Screenshot_2023-07-25-23-59-19-84_08ca09781666b52aabc166c014160a02.jpg)
-![Screenshot](Screenshot_2023-07-26-00-03-03-20_08ca09781666b52aabc166c014160a02.jpg)
-![Screenshot](Screenshot_2023-07-26-00-03-10-21_08ca09781666b52aabc166c014160a02.jpg)
+<img src="[https://github.com/arpitboss/Expense-Tracker-/blob/main/Screenshot_2023-07-25-23-59-15-46_08ca09781666b52aabc166c014160a02.jpg](https://github.com/arpitboss/Expense-Tracker-/blob/main/Screenshot_2023-07-25-23-59-10-52_08ca09781666b52aabc166c014160a02.jpg)" width= 300 height=300>
+
+<img src="[https://github.com/arpitboss/Expense-Tracker-/blob/main/Screenshot_2023-07-25-23-59-15-46_08ca09781666b52aabc166c014160a02.jpg](https://github.com/arpitboss/Expense-Tracker-/blob/main/Screenshot_2023-07-25-23-59-15-46_08ca09781666b52aabc166c014160a02.jpg)" width= 300 height=300>
+
+<img src="[https://github.com/arpitboss/Expense-Tracker-/blob/main/Screenshot_2023-07-25-23-59-19-84_08ca09781666b52aabc166c014160a02.jpg](https://github.com/arpitboss/Expense-Tracker-/blob/main/Screenshot_2023-07-25-23-59-19-84_08ca09781666b52aabc166c014160a02.jpg)" width=300 height=300>
+
+<img src="[https://github.com/arpitboss/Expense-Tracker-/blob/main/Screenshot_2023-07-25-23-59-19-84_08ca09781666b52aabc166c014160a02.jpg](https://github.com/arpitboss/Expense-Tracker-/blob/main/Screenshot_2023-07-26-00-03-03-20_08ca09781666b52aabc166c014160a02.jpg)" width=300 height=300>
+
+<img src="[https://github.com/arpitboss/Expense-Tracker-/blob/main/Screenshot_2023-07-25-23-59-19-84_08ca09781666b52aabc166c014160a02.jpg](https://github.com/arpitboss/Expense-Tracker-/blob/main/Screenshot_2023-07-26-00-03-10-21_08ca09781666b52aabc166c014160a02.jpg)" width=300 height=300>
+
 
 ## Firebase Configuration
 To enable Firebase Authentication for the app, follow these steps:
